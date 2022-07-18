@@ -1,3 +1,3 @@
 # Kokoa clone 2022 Geon
 
-CSS got so mush better!
+HTML & CSS are so much fun ! 
